@@ -1,0 +1,14 @@
+.container1 {
+  border-radius: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.slick-slide img {
+  margin: auto;
+}
+
+.slide-img{
+  width: 1110px;
+  height: 300px;
+}
